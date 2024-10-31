@@ -1,23 +1,24 @@
 # 🌐 Welcome to My GitHub Profile!
 
-**Hello, I’m [Your Name] 👋!**  
-I’m a passionate back-end developer focused on building efficient, scalable, and user-friendly web applications. Currently working with **Spring Boot** and improving my expertise in **JWT** and **Redis** for robust user authentication. 
+**안녕하세요, 저는 [박세훈] 입니다! 👋!**  
+효율적이고 확장 가능하며 사용자가 친화적인 웹 애플리케이션 구축을 목표로 하는 백엔드 개발자입니다. 현재 **Spring Boot**를 주로 사용하며, **JWT** 및 **Redis**를 활용한 강력한 사용자 인증 기능을 강화하고 있습니다.
 
-## 🔧 Technologies & Tools
 
-- 💻 **Languages**: Java, Python, JavaScript, SQL, C
-- 🔧 **Backend**: Spring Boot, Node.js, RESTful APIs
+## 🔧 기술 스택 및 도구
+
+- 💻 **Languages**: Java, JavaScript, SQL
+- 🔧 **Backend**: Spring Boot, RESTful APIs
 - 🗄️ **Database**: PostgreSQL, MySQL, Redis
-- 🌐 **Frontend**: HTML, CSS, JavaScript, Vue.js
+- 🌐 **Frontend**: JavaScript, Vue.js, React.js
 - 🧩 **Frameworks/Libraries**: Spring Security, MyBatis, JPA
 - ☁️ **APIs**: Naver Clova, Google Cloud Platform
 
-## 📈 GitHub Stats
+## 📈 GitHub 통계
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-## 📝 Recent Projects
+## 📝 최근 프로젝트
 
 1. **[Project Name]**  
    - Description: A web app for [purpose]
@@ -34,13 +35,13 @@ I’m a passionate back-end developer focused on building efficient, scalable, a
    - Technologies: JPA, MyBatis, PostgreSQL, Vue.js
    - [Link to Repository](URL)
 
-## 🚀 What I’m Working On
+## 🚀 현재 진행 중인 작업
 
-Currently developing an email verification feature using Spring Boot, JWT, and Redis for managing session tokens. I’m also interested in exploring cloud-based deployments and enhancing the security of user authentication.
+현재 Spring Boot, JWT 및 Redis를 사용한 이메일 인증 기능을 개발 중입니다. 또한 클라우드 기반 배포를 탐구하고 사용자 인증 보안 기능을 강화하고자 합니다.
 
-## 🧠 My Approach to Development
+## 🧠 나의 개발 접근 방식
 
-I believe that great code is clean, maintainable, and scalable. My projects are shaped by my commitment to quality and efficiency, backed by a philosophy of **learning from failures and adapting quickly**.
+좋은 코드는 깔끔하고 유지보수가 쉽고 확장 가능하다고 믿습니다. 저의 프로젝트는 품질과 효율성에 대한 헌신에 기반하여 진행되며, **실패에서 배우고 빠르게 적응하는 철학**을 실천합니다.
 
 ---
 
@@ -50,4 +51,4 @@ I believe that great code is clean, maintainable, and scalable. My projects are 
 - [Portfolio](your-portfolio-url)
 - [Email](mailto:youremail@example.com)
 
-Thanks for stopping by! 😊
+방문해 주셔서 감사합니다! 😊
