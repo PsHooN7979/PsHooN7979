@@ -46,7 +46,7 @@
 
 ## 🎯
 
-- [Portfolio]([your-portfolio-url](https://outrageous-bearskin-6f8.notion.site/adad84c903d94cbab0241dd34dc110b0?pvs=4))
+- [Portfolio](https://outrageous-bearskin-6f8.notion.site/adad84c903d94cbab0241dd34dc110b0?pvs=4)
 - [Email](tp519666@gmail.com)
 
 방문해 주셔서 감사합니다! 😊
