@@ -31,15 +31,19 @@
 
 ## 📝 최근 프로젝트
 
-1. [**[지도 기반 SNS Kok]**  ](https://github.com/PsHooN7979/Kok.git) 
+1. [**[Future24: AI 기반 진로 추천 플랫폼]**  ](https://github.com/Team-IGoose/Future24)
+   - 설명: 사용자의 선호도와 능력을 분석하여 **AI 추천 시스템**으로 개인 맞춤형 진로를 제안하는 플랫폼  
+   - 기술 스택: [Spring Boot, Mybatis, React.js, MySQL, OpenAI]  
+
+2. [**[지도 기반 SNS Kok]**  ](https://github.com/PsHooN7979/Kok.git) 
    - 설명: [지도 기반 SNS]를 위한 웹 앱
    - 기술 스택: [SpringBoot, MyBatis, React.js, PostgreSQL]
 
-2. [**[나만의 작은 건강 비서 필팩]**  ](https://github.com/PsHooN7979/Piill-Pack.git)
+3. [**[나만의 작은 건강 비서 필팩]**  ](https://github.com/PsHooN7979/Piill-Pack.git)
    - 설명: [환자의 복약 스케줄과 부작용을 AI로 관리하는 통합 헬스케어 솔루션]을 위한 웹 앱
    - 기술 스택: [SpringBoot, JPA, React.js, MySQL, OpenAI, Naver Clova OCR]
 
-3. [**[카페 여석 예약 프로젝트]**  ](https://github.com/PsHooN7979/Personal_Project.git)
+4. [**[카페 여석 예약 프로젝트]**  ](https://github.com/PsHooN7979/Personal_Project.git)
    - 설명: [카페의 여석을 파악해 예약]을 위한 웹
    - 기술 스택: [SpringBoot, JPA, React.js, MySQL]
 
