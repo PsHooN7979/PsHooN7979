@@ -58,7 +58,11 @@
 
 ## 🎯
 
-- [Portfolio](https://outrageous-bearskin-6f8.notion.site/adad84c903d94cbab0241dd34dc110b0?pvs=4)  
-- [Email](tp519666@gmail.com)
+- ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white)
+  [포트폴리오 링크](https://outrageous-bearskin-6f8.notion.site/adad84c903d94cbab0241dd34dc110b0?pvs=4)
+  
+- ![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)
+  [tp519666@gmail.com](mailto:tp519666@gmail.com)
+
 
 방문해 주셔서 감사합니다! 😊
