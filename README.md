@@ -27,8 +27,7 @@
 
 ## 📈 GitHub 통계
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=PsHooN7979&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PsHooN7979&layout=compact&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=PsHooN7979&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PsHooN7979&layout=compact&theme=radical)
 
 ## 📝 최근 프로젝트
 
