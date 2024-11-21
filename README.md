@@ -31,20 +31,17 @@
 
 ## 📝 최근 프로젝트
 
-1. **[지도 기반 SNS Kok]**  
+1. [**[지도 기반 SNS Kok]**  ](https://github.com/PsHooN7979/Kok.git) 
    - 설명: [지도 기반 SNS]를 위한 웹 앱
    - 기술 스택: [SpringBoot, MyBatis, React.js, PostgreSQL]
-   - [리포지토리 링크](https://github.com/PsHooN7979/Kok.git)
 
-2. **[나만의 작은 건강 비서 필팩]**  
+2. [**[나만의 작은 건강 비서 필팩]**  ](https://github.com/PsHooN7979/Piill-Pack.git)
    - 설명: [환자의 복약 스케줄과 부작용을 AI로 관리하는 통합 헬스케어 솔루션]을 위한 웹 앱
    - 기술 스택: [SpringBoot, JPA, React.js, MySQL, OpenAI, Naver Clova OCR]
-   - [리포지토리 링크](https://github.com/PsHooN7979/Piill-Pack.git)
 
-3. **[카페 여석 예약 프로젝트]**  
+3. [**[카페 여석 예약 프로젝트]**  ](https://github.com/PsHooN7979/Personal_Project.git)
    - 설명: [카페의 여석을 파악해 예약]을 위한 웹
    - 기술 스택: [SpringBoot, JPA, React.js, MySQL]
-   - [리포지토리 링크](https://github.com/PsHooN7979/Personal_Project.git)
 
 ---
 
@@ -58,11 +55,9 @@
 
 ## 🎯
 
-- ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white)
-  [포트폴리오 링크](https://outrageous-bearskin-6f8.notion.site/adad84c903d94cbab0241dd34dc110b0?pvs=4)
-  
+- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white)](https://outrageous-bearskin-6f8.notion.site/adad84c903d94cbab0241dd34dc110b0?pvs=4)
+
 - [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white)](mailto:tp519666@gmail.com)
-  [tp519666@gmail.com](mailto:tp519666@gmail.com)
 
 
 방문해 주셔서 감사합니다! 😊
